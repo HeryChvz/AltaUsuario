@@ -1,0 +1,27 @@
+{
+  "name": "api_express",
+  "version": "1.0.0",
+  "description": "Api realizada en express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HeryChvz/AltaUsuario.git"
+  },
+  "keywords": [
+    "api",
+    "flutter"
+  ],
+  "author": "Eduardo Heriberto Chavez Muñoz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HeryChvz/AltaUsuario/issues"
+  },
+  "homepage": "https://github.com/HeryChvz/AltaUsuario#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  }
+}
